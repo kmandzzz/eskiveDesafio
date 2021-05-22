@@ -1,0 +1,1 @@
+Para representar o modelo do Template sendo enviado por e-mail, as imagens foram transformadas em links para serem exibidas corretamente dentro do Gmail ou Outlook. 
